@@ -1,0 +1,6 @@
+org\openmrs\module\mymodule\Item.class
+org\openmrs\module\mymodule\MymoduleConfig.class
+org\openmrs\module\mymodule\api\MymoduleService.class
+org\openmrs\module\mymodule\MymoduleActivator.class
+org\openmrs\module\mymodule\api\impl\MymoduleServiceImpl.class
+org\openmrs\module\mymodule\api\dao\MymoduleDao.class

@@ -1,0 +1,2 @@
+org\openmrs\module\mymodule\api\dao\MymoduleDaoTest.class
+org\openmrs\module\mymodule\api\MymoduleServiceTest.class
